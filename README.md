@@ -9,7 +9,7 @@ This project focuses on analyzing Meghan Trainor's social media presence and eng
 ### **Tech Stack**
 - **Programming Language:** R, RStudio
 - **Techniques:** LDA Topic Modeling, Decision Trees, Sentiment Analysis, Social Network Analysis
-- **Tools:** APIs (YouTube, Reddit, Spotify), Power BI Dashboards
+- **Tools:** APIs (YouTube, Reddit, Spotify), Power BI Dashboards,Gephi
 
 ---
 
@@ -57,3 +57,16 @@ The report, **[Machine Learning Social Media Analysis with R.pdf](https://github
    - Eigenvector centrality network analysis and other insights.
 
 8. **References**
+
+Here are a few key visualizations from the analysis to highlight our findings and showcase the insights derived from the data:
+![image](https://github.com/user-attachments/assets/16524ad2-5b92-4453-9e2c-411f4839c161)
+Social Network Analysis-  Centrality analysis
+![image](https://github.com/user-attachments/assets/d681870a-a68f-4dbe-9745-898c4c78eae9)
+![image](https://github.com/user-attachments/assets/65f5d2de-c989-4a57-b1a6-f5033450bfb9)
+Community analysis with Girvan-Newman / Louvain methods
+![image](https://github.com/user-attachments/assets/63cb6c7c-a690-404f-8ac6-29577d3d214d)
+
+![image](https://github.com/user-attachments/assets/922b8718-feb1-4624-8f7d-3c805ffc927b)
+
+![image](https://github.com/user-attachments/assets/5698e2e8-d9c2-4d85-be93-6670cee90667)
+
